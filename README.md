@@ -7,7 +7,7 @@ git clone --recurse-submodules https://github.com/shashankprasanna/pytorch-sagem
 ```
 3. Host the workshop locally
 ```
-cd amer-summit-aug21-workshop
+cd pytorch-sagemaker-distributed-workshop
 hugo serve
 ```
 4. Open your favorite browser and navigate to `http://localhost:1313/`
