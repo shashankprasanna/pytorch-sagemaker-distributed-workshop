@@ -1,0 +1,34 @@
+RelativeURLs=true
+###baseURL = disabled
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Distributed ML training with PyTorch and Amazon SageMaker"
+theme = "learn"
+uglyurls=true
+sectionPagesMenu = "main"
+pygmentsCodeFences = true
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params]
+themeVariant = "mine"
+showVisitedLinks = false
+author = "Shashank Prasanna"
+description = "Distributed ML training with PyTorch and Amazon SageMaker"
+disableSearch = false
+disableAssetsBusting = false
+
+disableInlineCopyToClipBoard = false
+disableShortcutsTitle = false
+disableLanguageSwitchingButton = false
+disableBreadcrumb = true
+disableNextPrev = true
+ordersectionsby = "weight"
+
+[outputs]
+home = [ "HTML", "AMP", "RSS", "JSON"]
+page = [ "HTML", "AMP"]
+
+[author]
+name = "Shashank Prasanna"
