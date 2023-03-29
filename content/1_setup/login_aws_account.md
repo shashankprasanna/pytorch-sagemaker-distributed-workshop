@@ -4,6 +4,11 @@ weight: 1
 chapter: false
 ---
 
+{{% notice warning %}}
+TEMPORARY ACCOUNTS ARE ONLY AVAILABLE DURING THE LIVE WORKSHOP.
+FEEL FREE TO FOLLOW THE STEPS IN YOUR OWN PERSONAL AWS ACCOUNT.
+{{% /notice %}}
+
 #### Get your temporary AWS account
 
 Click on the link at the bottom of the browser as show below.
